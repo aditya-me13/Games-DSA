@@ -3,7 +3,7 @@ Codes for all the submissions we made by our team of three during our third-seme
 
 ## Games:
 - Rubik's Cube Solver (2x2x2)
-- Up-it-up Solver
+- [Up-it-up](https://youtu.be/59-fCjWFpAE?si=Hz4L_Iik7kkYlmeQ) Solver
 - [Connect4](https://en.wikipedia.org/wiki/Connect_Four) Game
 - Game of [Sim](https://en.wikipedia.org/wiki/Sim_(game))
 - [TicTacToe](https://en.wikipedia.org/wiki/Tic-tac-toe)
